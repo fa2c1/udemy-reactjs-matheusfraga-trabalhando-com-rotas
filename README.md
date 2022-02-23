@@ -9,3 +9,4 @@ Seção 7: React Avançado
 ### Conteudo por commit
 
 - Trabalhando com Rotas
+- Tratando erro em Rotas
